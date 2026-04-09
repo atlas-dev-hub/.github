@@ -2,7 +2,7 @@
 
 ## Scope
 
-This security policy covers community repositories under atlas-dev-hub, including pandlas and any community-linked projects.
+This security policy covers community repositories under atlas-dev-hub.
 
 For vulnerabilities in the core ATLAS platform or Motion Applied products, contact Motion Applied directly via [security@motionapplied.com](mailto:security@motionapplied.com).
 
@@ -15,8 +15,6 @@ If you discover a vulnerability in a community repo, report it privately:
 - **Email:** [atlas@motionapplied.com](mailto:atlas@motionapplied.com)
 - **Subject line:** `[SECURITY] atlas-dev-hub — brief description`
 - **Include:** the repo affected, a description of the vulnerability, steps to reproduce if applicable, and your assessment of impact
-
-We will acknowledge receipt within 2 working days and aim to resolve confirmed vulnerabilities within 30 days depending on severity.
 
 ## Disclosure
 
