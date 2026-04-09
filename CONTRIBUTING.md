@@ -1,48 +1,49 @@
 # Contributing to atlas-dev-hub
 
-Thanks for taking the time to contribute. This guide covers how to submit examples.
+Thanks for taking the time to contribute. This guide covers how to share a project, report bugs, ask questions, and propose ideas.
 
-## Submit an example
+---
 
-The best contributions are working code that solves a real problem. If you've integrated an ATLAS API and built something useful, we want it in the org.
+## Share a project
 
-### How it works
+Built something with an ATLAS API? We'd love to add it to the [community index](https://github.com/atlas-dev-hub/community).
 
-Each example lives as its own repo inside `atlas-dev-hub`. The process:
+Your project stays on your own GitHub account — we just link to it. No transfers, no forks required.
 
-1. **Fork** [example-template](https://github.com/atlas-dev-hub/example-template) to your personal GitHub
-2. **Build** your example following the structure and guidelines in the template README
-3. **Submit** by opening an issue using the [Submit an example](ISSUE_TEMPLATE/submit_example.md) template — link your repo and fill in the checklist
-4. **Review** — a maintainer will review your repo within 5 working days and leave feedback if anything needs changing
-5. **Transfer** — once approved, we'll transfer the repo into `atlas-dev-hub` where it lives permanently under your commit history
+**How to submit:**
 
-Your name stays in the commit history. You'll be credited as the author in the repo README.
+1. Make your repo public
+2. Open a [Share your project](https://github.com/atlas-dev-hub/.github/issues/new?template=share_project.md) issue
+3. Fill in the repo link, a one-line description, which API it uses, and your GitHub handle
+4. We'll review it and add it to the index within 5 working days
 
-### What makes a good example
+**Want a head start?** Fork [example-template](https://github.com/atlas-dev-hub/example-template) — it gives you a project structure, a README template, and a gitignored config setup out of the box. It's optional but recommended if you're building something from scratch.
 
-- Solves one specific problem clearly — not a kitchen sink
-- Includes a README that explains the problem, prerequisites, and how to run it
-- Uses the latest stable NuGet packages
-- Handles errors — don't assume the happy path
-- No hardcoded credentials, connection strings, or session keys — use `appsettings.json` and gitignore it
+---
 
-### Naming your repo
+## Report a bug
 
-Use the format `example-[api]-[what-it-does]`, for example:
+Use the [bug report template](ISSUE_TEMPLATE/bug_report.md). Include your ATLAS version, the API you're using, and steps to reproduce. The more specific the better.
 
-- `example-sqlrace-live-session`
-- `example-stream-api-consumer`
-- `example-display-api-custom-widget`
+---
 
+## Request a feature or improvement
 
-## Code standards
+Use the [feature request template](ISSUE_TEMPLATE/feature_request.md). Tell us what you're trying to do and why existing functionality doesn't cover it — not just what you want added.
 
-- **C#** examples should target .NET 6 or later
-- **Python** examples should target 3.9 or later
-- Follow standard language conventions — no custom formatters required
-- Keep dependencies minimal. If you need a package beyond the ATLAS ones, explain why in your README
-- Never commit API keys, credentials, or connection strings
+---
 
+## Ask a question
+
+Open a [discussion](https://github.com/orgs/atlas-dev-hub/discussions) in the Q&A category. Issues are for bugs and features; discussions are for questions.
+
+---
+
+## pandlas
+
+pandlas is community-maintained. The ATLAS team does not provide official support. If you want to become a maintainer, open a discussion and introduce yourself — we're happy to give repo-level access to active contributors.
+
+---
 
 ## Code of conduct
 

@@ -26,4 +26,6 @@ This code of conduct applies to all atlas-dev-hub repositories, discussions, iss
 
 Instances of unacceptable behaviour can be reported to the ATLAS team at [atlas@motionapplied.com](mailto:atlas@motionapplied.com). All reports will be reviewed and responded to. The team reserves the right to remove content or restrict access for violations.
 
+---
+
 *This code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.*

@@ -1,8 +1,14 @@
-# atlas-dev-hub
+# ATLAS Developer Hub
 
 A community space for developers building with the [ATLAS platform](https://atlas.motionapplied.com) — the telemetry and data platform behind motorsport, aerospace, and engineering at Motion Applied.
 
 This is where you share what you've built, contribute examples, ask questions, and connect with other engineers using ATLAS.
+
+## Built something with ATLAS?
+
+If you've integrated an ATLAS API and built something useful, share it with the community.
+
+**[→ Share your project](https://github.com/atlas-dev-hub/.github/issues/new?template=share_project.md)**
 
 ## Related orgs
 
