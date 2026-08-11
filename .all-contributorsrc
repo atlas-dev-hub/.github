@@ -1,0 +1,10 @@
+{
+  "projectName": "atlas-dev-hub",
+  "projectOwner": "atlas-dev-hub",
+  "files": [
+    "profile/README.md"
+  ],
+  "commitConvention": "none",
+  "contributorsPerLine": 7,
+  "contributors": []
+}
