@@ -24,6 +24,17 @@ Want to contribute? Read the [contribution guide](../CONTRIBUTING.md) — it cov
 
 Have a question? Open a [discussion](https://github.com/orgs/atlas-dev-hub/discussions) — Q&A, ideas, and show-and-tell are all welcome.
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ---
 
 *Built by engineers, for engineers. Maintained by the ATLAS team and the community.*
