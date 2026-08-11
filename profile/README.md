@@ -29,6 +29,13 @@ Have a question? Open a [discussion](https://github.com/orgs/atlas-dev-hub/discu
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/oliMarler"><img src="https://avatars.githubusercontent.com/u/185075162?v=4?s=100" width="100px;" alt="oliMarler"/><br /><sub><b>oliMarler</b></sub></a><br /><a href="#code-oliMarler" title="Code">💻</a> <a href="#doc-oliMarler" title="Documentation">📖</a> <a href="#ideas-oliMarler" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
