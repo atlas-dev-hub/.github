@@ -1,10 +1,23 @@
 {
-  "projectName": "atlas-dev-hub",
+  "projectName": ".github",
   "projectOwner": "atlas-dev-hub",
   "files": [
     "profile/README.md"
   ],
   "commitConvention": "none",
   "contributorsPerLine": 7,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "oliMarler",
+      "name": "oliMarler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185075162?v=4",
+      "profile": "https://github.com/oliMarler",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "commitType": "docs"
 }
