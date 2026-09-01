@@ -17,6 +17,15 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "eceMA0",
+      "name": "eceMA0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312572539?v=4",
+      "profile": "https://github.com/eceMA0",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitType": "docs"

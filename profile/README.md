@@ -33,6 +33,7 @@ Have a question? Open a [discussion](https://github.com/orgs/atlas-dev-hub/discu
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oliMarler"><img src="https://avatars.githubusercontent.com/u/185075162?v=4?s=100" width="100px;" alt="oliMarler"/><br /><sub><b>oliMarler</b></sub></a><br /><a href="#code-oliMarler" title="Code">💻</a> <a href="#doc-oliMarler" title="Documentation">📖</a> <a href="#ideas-oliMarler" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eceMA0"><img src="https://avatars.githubusercontent.com/u/312572539?v=4?s=100" width="100px;" alt="eceMA0"/><br /><sub><b>eceMA0</b></sub></a><br /><a href="#code-eceMA0" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
